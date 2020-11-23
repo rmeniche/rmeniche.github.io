@@ -1,8 +1,7 @@
 {
   "short_name": "GinkoBus",
   "name": "GinkoBus",
-  "description": "L'application permet de consulter les horaires de bus à une station, ou pour une ligne donnée. 
-  Il est possible d'enregistrer des stations (arrêt + ligne + direction) favorites pour accélérer les recherches. ",
+  "description": "L'application permet de consulter les horaires de bus à une station, ou pour une ligne donnée. Il est possible d'enregistrer des stations (arrêt + ligne + direction) favorites pour accélérer les recherches. ",
   "icons": [
         {
             "src": "icons/icon-32.png",
